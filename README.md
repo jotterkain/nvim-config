@@ -1,2 +1,3 @@
 # vim-config
 My vim/neovim config files
+Starting journey...
