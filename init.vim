@@ -4,7 +4,7 @@ call plug#begin('~/.local/share/nvim/site/autoload/')
 :set tabstop=2
 :set smarttab
 :set mouse=a
-
+:set shiftwidth=4 smarttab
 Plug 'wakatime/vim-wakatime'
 Plug 'deoplete-plugins/deoplete-clang'
 Plug 'vim-airline/vim-airline'
